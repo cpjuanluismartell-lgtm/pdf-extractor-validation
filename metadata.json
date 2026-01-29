@@ -1,0 +1,5 @@
+{
+  "name": "PDF Information Extractor COPADE v3",
+  "description": "An application to extract specific fields of information from an uploaded PDF file using Gemini.",
+  "requestFramePermissions": []
+}
